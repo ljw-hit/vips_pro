@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff474112-4870-4e6e-af13-528c66c4a01b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\maven_repository\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XmQOFYgUP0h1qZOLlkOIj86m5B" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.fit.vips" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.fit.vips" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\vips_java-master" />
+      <recent name="F:\vips_java-master\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.VipsTester">
+    <configuration name="CssboxUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fit.vips.CssboxUtil" />
+      <module name="vips-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fit.vips.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VipsTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fit.vips.VipsTester" />
+      <module name="vips-java" />
+      <option name="PROGRAM_PARAMETERS" value="https://news.sina.com.cn/c/2020-05-09/doc-iircuyvi2178319.shtml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fit.vips.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CssboxUtil" />
+      <item itemvalue="Application.VipsTester" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VipsTester" />
+        <item itemvalue="Application.CssboxUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff474112-4870-4e6e-af13-528c66c4a01b" name="Default Changelist" comment="" />
+      <created>1581648755168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581648755168</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/net/sf/cssbox/cssbox/4.15/cssbox-4.15-sources.jar!/org/fit/cssbox/layout/BlockBox.java</url>
+          <line>1070</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/fit/vips/VipsOutput.java</url>
+          <line>323</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/fit/vips/VipsOutput.java</url>
+          <line>186</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/maven_repository/net/sf/cssbox/cssbox/4.15/cssbox-4.15-sources.jar!/org/fit/cssbox/layout/VisualContext.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/maven_repository/net/sf/cssbox/cssbox/4.17/cssbox-4.17-sources.jar!/org/fit/cssbox/layout/VisualContext.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/maven_repository/net/sf/cssbox/cssbox/4.17/cssbox-4.17-sources.jar!/org/fit/cssbox/demo/ImageRenderer.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/maven_repository/net/sf/cssbox/cssbox/4.17/cssbox-4.17-sources.jar!/org/fit/cssbox/demo/ImageRenderer.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/maven_repository/net/sf/cssbox/cssbox/4.17/cssbox-4.17-sources.jar!/org/fit/cssbox/demo/ImageRenderer.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/maven_repository/net/sf/cssbox/cssbox/4.17/cssbox-4.17-sources.jar!/org/fit/cssbox/demo/ImageRenderer.java</url>
+          <line>130</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/fit/vips/VipsOutput.java</url>
+          <line>115</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((Object[][])((DeferredDocumentImpl)((DeferredDocumentTypeImpl)((DeferredDocumentImpl)((DeferredElementNSImpl)viewport.root).ownerDocument).firstChild).ownerNode).fNodeURI)[0][2048]" custom="org.apache.xerces.dom.DeferredDocumentTypeImpl,org.apache.xerces.dom.DeferredDocumentImpl,org.apache.xerces.dom.DeferredElementNSImpl,java.lang.Object[][]" />
+        <watch expression="viewport" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+</project>
